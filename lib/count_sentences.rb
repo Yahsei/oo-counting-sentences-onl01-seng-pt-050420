@@ -3,7 +3,7 @@ require 'pry'
 class String
 
   def sentence?
-    self.ends.with?
+    self.end.with?
   end
 
   def question?
