@@ -15,6 +15,6 @@ class String
   end
 
   def count_sentences
-      sentences.array
+      array = 
   end
 end
